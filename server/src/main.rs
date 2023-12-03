@@ -1,5 +1,3 @@
-// server_project/src/main.rs
-
 use std::sync::atomic::{AtomicUsize, Ordering};
 use std::sync::Arc;
 use tokio::io::{AsyncReadExt, AsyncWriteExt};
