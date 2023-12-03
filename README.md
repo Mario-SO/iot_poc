@@ -1,7 +1,3 @@
-Certainly! Here's a README.md for the version of your project before the introduction of public and private key features. This version will focus on the distributed worker-server system using Rust, highlighting its basic network communication capabilities.
-
----
-
 # 🌐 Distributed Worker-Server System in Rust
 
 Welcome to our Distributed Worker-Server System project! This system, written in the powerful Rust programming language, showcases a network of worker nodes communicating with a central server. Each worker node, upon starting, establishes a connection with the server and participates in the network communication.
@@ -61,10 +57,6 @@ This will start a worker node that connects to the server. You can open multiple
 ## Contributing 🤝
 
 Contributions to this project are welcome! Feel free to fork the repo, make your changes, and submit a pull request.
-
-## License 📄
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
