@@ -21,8 +21,8 @@ Welcome to our Distributed Worker-Server System project! This system, written in
 Clone the repository to get started:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/your-username/iot_poc.git
+cd iot_poc
 ```
 
 ## Usage 🖥️
@@ -32,7 +32,7 @@ cd your-repo-name
 Navigate to the server project's directory:
 
 ```bash
-cd server_project
+cd server
 cargo run
 ```
 
@@ -43,7 +43,7 @@ The server will start and listen for incoming connections from worker nodes.
 In a new terminal, navigate to the worker project's directory:
 
 ```bash
-cd worker_project
+cd workers
 cargo run
 ```
 
